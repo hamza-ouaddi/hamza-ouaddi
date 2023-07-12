@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm Hamza, a developer and designer driven by a passion for creating captivating experiences.
+<p>I'm Hamza, a developer and designer driven by a passion for creating captivating experiences.</p>
 
 ### Technologies & Tools
 
