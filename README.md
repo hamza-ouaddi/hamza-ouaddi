@@ -4,9 +4,17 @@
 
 <p> I'm Hamza, a developer and designer driven by a passion for creating captivating experiences.</p>
 
-<h2 > Technologies & Tools </h2>
+<div align="left" width="50%">
+  
+<h2 > Technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,react,vue,laravel,nodejs,express,mongodb,mysql,cs,dotnet,ps,ai,figma,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,react,nextjs,vue,laravel,nodejs,express,mongodb,mysql,cs,dotnet)](https://skillicons.dev)
+
+<h2 >Tools </h2>
+
+[![Tools](https://skillicons.dev/icons?i=figma,ps,ai,blender)](https://skillicons.dev)
+
+</div>
 
 <h2 > Github stats </h2>
 
